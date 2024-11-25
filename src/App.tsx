@@ -21,6 +21,12 @@ function App() {
           {isDark ? "☀️" : "🌙"}
         </button>
 
+        <img
+          src="adiru.jpg"
+          alt=""
+          className="mx-auto mb-5 rounded-full w-36 h-36 object-cover"
+        />
+
         <header className="text-center mb-12">
           <h1 className="text-4xl font-bold mb-4">
             <TypeWriter text="Hello, I'm Adil Prima" />
